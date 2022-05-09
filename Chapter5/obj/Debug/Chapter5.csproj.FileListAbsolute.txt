@@ -1,0 +1,8 @@
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\obj\Debug\Chapter5.csproj.AssemblyReference.cache
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\obj\Debug\Chapter5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\obj\Debug\Chapter5.csproj.CoreCompileInputs.cache
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\bin\Debug\Chapter5.exe.config
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\bin\Debug\Chapter5.exe
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\bin\Debug\Chapter5.pdb
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\obj\Debug\Chapter5.exe
+C:\Users\Anusha.Medichelmi\source\repos\Chapter5\Chapter5\obj\Debug\Chapter5.pdb
